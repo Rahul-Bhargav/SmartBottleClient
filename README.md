@@ -1,0 +1,1 @@
+SmartBottle Client - This repository contains the frontend Webapp of the smartbottle Application using ReactJS
